@@ -4,9 +4,9 @@ Conditions are the image should be near perfect top-down view of the objects to 
 
 To run in your local system run the below command:
 
-# python object_file_testimage1.py --image images/fruit1.jpg --width 0.955
+$ python object_file_testimage1.py --image images/fruit1.jpg --width 0.955
 
-# python object_file_testimage2.py --image images/fruit2.jpg --width 0.955
+$ python object_file_testimage2.py --image images/fruit2.jpg --width 0.955
 
 Results
 
