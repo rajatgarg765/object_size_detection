@@ -2,6 +2,12 @@
 This is a simple-looking software that tells you the size of any object in real time.
 Conditions are the image should be near perfect top-down view of the objects to calculate the accurate results.
 
+To run in your local system run the below command:
+
+# python object_file_testimage1.py --image images/fruit1.jpg --width 0.955
+
+# python object_file_testimage2.py --image images/fruit2.jpg --width 0.955
+
 Results
 
 ![1](https://user-images.githubusercontent.com/90924296/166912445-8040a20d-4137-4cf4-8a0d-707412d0da2d.png)
